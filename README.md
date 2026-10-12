@@ -236,4 +236,4 @@ This repository serves as the official landing page for Battleswarm. The softwar
 **Get the most recent version of Battleswarm today!**
 
 ---
-**Last updated:** 2026-10-12 16:24:57 UTC
+**Last updated:** 2026-10-12 23:25:34 UTC
